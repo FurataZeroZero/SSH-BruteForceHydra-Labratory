@@ -61,8 +61,6 @@ With a little time and patience, Hydra correctly guesses the password. The addre
 
 ![Hydra successful password guess](screenshots/hydra-success.png)
 
-![Wireshark packets for successful password guess](screenshots/wireshark-successful-guess.png)
-
 When inputting the password into the SSH command, the full system can be accessed.
 
 ![Full system access after successful login](screenshots/ssh-full-access.png)
